@@ -39,3 +39,9 @@ NOAA Climate Data
 European Climate Assessment and Dataset
 Climate Prediction Center
 NCAR UCAR Climate Data Guide
+
+#### Potential Curation Activities
+This is a very broad area, and has several challenges:
+1. Access to relevant information and data
+2. Normalizing data across data sources, schemas and regions
+3. Scope of data
