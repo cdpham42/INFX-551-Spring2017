@@ -27,11 +27,11 @@ There are a number of folders, and I suggest keeping the file strucutre as I hav
 
 #### Topic: Curation of Meteorological Data
 
-Meteorological data is essential in understanding our world, and more importantly the future of our world. We will focus on the United States' meteorological and climate data, as there have recently been vast changes in the storage of this data.
+Meteorological data is essential in understanding our world, and more importantly the future of our world. We will focus on the United States' meteorological and climate data, as there have recently been vast changes in the storage of this data. Our focus will be a protocol to provide simplified data meant for the community, those who are not already embedded within meteorology and atmospheric science.
 
 #### Potential User Community
 
-The user community will include those in academics, researchers, and scientists. Other potential users may be legislators, policy-makers, and industry professionals.
+The user community will include the general public and community scientists.
 
 #### Potential Data
 
@@ -45,6 +45,7 @@ We will focus
 This is a very broad area, and has several challenges:
 1. Access to relevant information and data
 2. Normalizing data across data sources and schemas
+3. Simplification of complicated data sets (NetCDF) to more familiar, widespread formats such as .csv
 
 
 
