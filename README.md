@@ -35,10 +35,10 @@ The user community will include those in academics, researchers, and scientists.
 
 #### Potential Data
 
-NOAA Climate Data
-European Climate Assessment and Dataset
-Climate Prediction Center
-NCAR UCAR Climate Data Guide
+1. NOAA Climate Data
+2. European Climate Assessment and Dataset
+3. Climate Prediction Center
+4. NCAR UCAR Climate Data Guide
 
 #### Potential Curation Activities
 This is a very broad area, and has several challenges:
