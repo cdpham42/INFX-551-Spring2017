@@ -25,9 +25,9 @@ There are a number of folders, and I suggest keeping the file strucutre as I hav
 
 #### Team Members: Casey Pham, Ian Durra, Jiha Kang
 
-#### Topic: Curation of meteorological data
+#### Topic: Curation of Meteorological Data
 
-Meteorological data is essential in understanding our world, and more importantly the future of our world.
+Meteorological data is essential in understanding our world, and more importantly the future of our world. We will focus on the United States' meteorological and climate data, as there have recently been vast changes in the storage of this data.
 
 #### Potential User Community
 
@@ -36,12 +36,19 @@ The user community will include those in academics, researchers, and scientists.
 #### Potential Data
 
 1. NOAA Climate Data
-2. European Climate Assessment and Dataset
-3. Climate Prediction Center
-4. NCAR UCAR Climate Data Guide
+2. Climate Prediction Center
+3. NCAR UCAR Climate Data Guide
+
+We will focus 
 
 #### Potential Curation Activities
 This is a very broad area, and has several challenges:
 1. Access to relevant information and data
-2. Normalizing data across data sources, schemas and regions
-3. Scope of data
+2. Normalizing data across data sources and schemas
+
+
+
+#### Next Steps
+1. Narrow down user community. Potentiallly: lay/common persons? Non-meteorology persons
+2. Narrow down datasets and data types
+3. Potential activity: Conversion from industry standard (ie NetCDF) to a more common format such as .csv
