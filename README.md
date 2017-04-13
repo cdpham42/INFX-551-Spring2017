@@ -21,3 +21,21 @@ There are a number of folders, and I suggest keeping the file strucutre as I hav
 5. Use-Cases: For your second assignment you will write up a use-case following the W3C format for Data on the Web Best Practices. The use-case will be related to the quarter project, so I'd like you to place all of these in the same folder. If you write this document as a `.doc` you can use an online [tool](https://word-to-markdown.herokuapp.com/) to convert to markdown `.md`. 
 
 
+## Curation Protocol Pitch: Meteorological Data
+
+#### Team Members: Casey Pham, Ian Durra, Jiha Kang
+
+#### Topic: Curation of meteorological data
+
+Meteorological data is essential in understanding our world, and more importantly the future of our world.
+
+#### Potential User Community
+
+The user community will include those in academics, researchers, and scientists. Other potential users may be legislators, policy-makers, and industry professionals.
+
+#### Potential Data
+
+NOAA Climate Data
+European Climate Assessment and Dataset
+Climate Prediction Center
+NCAR UCAR Climate Data Guide
