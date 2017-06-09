@@ -1,0 +1,6 @@
+Abstract:,ERSST.v4 is developped based on v3b after revisions of 11 parameters using updated data sets and advanced knowledge of ERSST analysis
+Purpose:,This data can be used to determine and plot average Ocean temperatures
+License:,No constraints on data access or use
+
+
+Legend,Temperature: Given in Celcius,Latitude: Uniform grid from -88 to 88 by 2,Longitude: Uniform grid from 0 to 358 by 2,Altitude: Depth of sea surface temperature measurements,Time: minutes since 2017-05-01 00:00,Pressure: n/a
